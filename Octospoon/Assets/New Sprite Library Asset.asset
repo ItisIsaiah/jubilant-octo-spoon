@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: New Sprite Library Asset
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: Player
+    m_Hash: -1615495341
+    m_CategoryList:
+    - m_Name: Head
+      m_Hash: 130111906
+      m_Sprite: {fileID: 21300000, guid: 124d3da77f571c9478a716bc9382f451, type: 3}
+    - m_Name: fist
+      m_Hash: 729094268
+      m_Sprite: {fileID: 21300000, guid: 46a5703ed060da84c8b2883f4466d039, type: 3}
+    - m_Name: bod2
+      m_Hash: 983995306
+      m_Sprite: {fileID: 21300000, guid: 1df2e8e4443781644a676142ee3acd08, type: 3}
+    - m_Name: feet
+      m_Hash: 1056396495
+      m_Sprite: {fileID: 21300000, guid: f1ec8983bca94954db8da2c0d532fb81, type: 3}
+    - m_Name: spoon
+      m_Hash: 411794100
+      m_Sprite: {fileID: 21300000, guid: df2ac9124534d154c8bc3d9d9030ff55, type: 3}
